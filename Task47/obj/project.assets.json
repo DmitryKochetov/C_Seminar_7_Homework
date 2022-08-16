@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Дмитрий\\Desktop\\Учеба\\Домашние задания\\Знакомство с языками программирования\\Семинар_7\\Task47\\Task47.csproj",
+      "projectUniqueName": "C:\\Users\\Дмитрий\\Desktop\\Учеба\\Домашние задания\\Знакомство с языками программирования\\Семинар_7\\Tasks\\Task47\\Task47.csproj",
       "projectName": "Task47",
-      "projectPath": "C:\\Users\\Дмитрий\\Desktop\\Учеба\\Домашние задания\\Знакомство с языками программирования\\Семинар_7\\Task47\\Task47.csproj",
+      "projectPath": "C:\\Users\\Дмитрий\\Desktop\\Учеба\\Домашние задания\\Знакомство с языками программирования\\Семинар_7\\Tasks\\Task47\\Task47.csproj",
       "packagesPath": "C:\\Users\\Дмитрий\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Дмитрий\\Desktop\\Учеба\\Домашние задания\\Знакомство с языками программирования\\Семинар_7\\Task47\\obj\\",
+      "outputPath": "C:\\Users\\Дмитрий\\Desktop\\Учеба\\Домашние задания\\Знакомство с языками программирования\\Семинар_7\\Tasks\\Task47\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Дмитрий\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Дмитрий\\Desktop\\Учеба\\Домашние задания\\Знакомство с языками программирования\\Семинар_7\\Task50\\Task50.csproj": {}
+    "C:\\Users\\Дмитрий\\Desktop\\Учеба\\Домашние задания\\Знакомство с языками программирования\\Семинар_7\\Tasks\\Task50\\Task50.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Дмитрий\\Desktop\\Учеба\\Домашние задания\\Знакомство с языками программирования\\Семинар_7\\Task50\\Task50.csproj": {
+    "C:\\Users\\Дмитрий\\Desktop\\Учеба\\Домашние задания\\Знакомство с языками программирования\\Семинар_7\\Tasks\\Task50\\Task50.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Дмитрий\\Desktop\\Учеба\\Домашние задания\\Знакомство с языками программирования\\Семинар_7\\Task50\\Task50.csproj",
+        "projectUniqueName": "C:\\Users\\Дмитрий\\Desktop\\Учеба\\Домашние задания\\Знакомство с языками программирования\\Семинар_7\\Tasks\\Task50\\Task50.csproj",
         "projectName": "Task50",
-        "projectPath": "C:\\Users\\Дмитрий\\Desktop\\Учеба\\Домашние задания\\Знакомство с языками программирования\\Семинар_7\\Task50\\Task50.csproj",
+        "projectPath": "C:\\Users\\Дмитрий\\Desktop\\Учеба\\Домашние задания\\Знакомство с языками программирования\\Семинар_7\\Tasks\\Task50\\Task50.csproj",
         "packagesPath": "C:\\Users\\Дмитрий\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Дмитрий\\Desktop\\Учеба\\Домашние задания\\Знакомство с языками программирования\\Семинар_7\\Task50\\obj\\",
+        "outputPath": "C:\\Users\\Дмитрий\\Desktop\\Учеба\\Домашние задания\\Знакомство с языками программирования\\Семинар_7\\Tasks\\Task50\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Дмитрий\\AppData\\Roaming\\NuGet\\NuGet.Config"
